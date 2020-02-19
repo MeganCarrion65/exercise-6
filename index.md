@@ -2,7 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <link href="style.css" rel="stylesheet" />
     <title>Voice of America</title>
+    
   </head>
 
   <body>
